@@ -1,0 +1,69 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "flashloans/FlashLoan": [
+      {
+        "address": "0xF3de70d642e48D897D3f8A5351e673290eaab0B2",
+        "kind": "NonProxy",
+        "bytecodeHash": "4491e464d2c61443ef1659c8c916a9e89ee67e63bb0fb6cc6594017d1cd73b00"
+      },
+      {
+        "address": "0xc45BEE89d72527BfC2B4C4Ab6866BeF0313AE7B0",
+        "kind": "NonProxy",
+        "bytecodeHash": "c9006ec8ca16cca16549af4e3ea96e22967c4ba3b1b39a61e52acbfba253f2a9"
+      },
+      {
+        "address": "0xe8ab9C48f3eD3EF0eD3F9e37F03E910436134bbA",
+        "kind": "NonProxy",
+        "bytecodeHash": "c9006ec8ca16cca16549af4e3ea96e22967c4ba3b1b39a61e52acbfba253f2a9"
+      },
+      {
+        "address": "0xD6509563aC4d4cBC8Ae3Bc64e81b12a159c6a88C",
+        "kind": "NonProxy",
+        "bytecodeHash": "abb2d845466aaecba3b8e8e39e0d7137dd9c32e32fb4c380a080adeb5c601d51"
+      },
+      {
+        "address": "0x05F63A457470C13B0642973e77d2d143af276287",
+        "kind": "NonProxy",
+        "bytecodeHash": "a171c866e9fdfedc1d7e4459adf69fc7abec0282e3aad84396d2b4bb35e0fb04"
+      },
+      {
+        "address": "0x0E09c9405E84826E70E2BCB5ccfaD4c165a13698",
+        "kind": "NonProxy",
+        "bytecodeHash": "7f99eeebce46f6cee4e93c54fce99093e4b2e836f2fe85bfb9f36e1002614135"
+      },
+      {
+        "address": "0xd2914286E4f8f78d8DEE7a631c73841858a048AD",
+        "kind": "NonProxy",
+        "bytecodeHash": "7f99eeebce46f6cee4e93c54fce99093e4b2e836f2fe85bfb9f36e1002614135"
+      },
+      {
+        "address": "0x1e2d60168E7924fd0A48f053B0ea6AB1ca2Dd41D",
+        "kind": "NonProxy",
+        "bytecodeHash": "e9b7adaa0682575400a6aeb54e0b7d2b3baa27807d370d78dc30feebd14f9d95"
+      },
+      {
+        "address": "0x4d7bf05885B4835532160000a3b0731F2494c4BA",
+        "kind": "NonProxy",
+        "bytecodeHash": "c2e3f8e0394151edac60631c585872175c700a598cf46960f01a3a13ec19acca"
+      },
+      {
+        "address": "0x4e4177D5e1Cf71e75F1c7f2F67C4b868743462b2",
+        "kind": "NonProxy",
+        "bytecodeHash": "7f99eeebce46f6cee4e93c54fce99093e4b2e836f2fe85bfb9f36e1002614135"
+      },
+      {
+        "address": "0x4B23F93924ce82Ee7C1525eC9730B1aaDB2b9a0a",
+        "kind": "NonProxy",
+        "bytecodeHash": "7f99eeebce46f6cee4e93c54fce99093e4b2e836f2fe85bfb9f36e1002614135"
+      },
+      {
+        "address": "0x58f14bAC32a5d63407E8Fc03A95055DeE83E8932",
+        "kind": "NonProxy",
+        "bytecodeHash": "7f99eeebce46f6cee4e93c54fce99093e4b2e836f2fe85bfb9f36e1002614135"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
